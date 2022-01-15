@@ -1,2 +1,2 @@
 # kalebmiranda.github.io
-Root GitHub Pages Reop
+Root GitHub Pages Repo
