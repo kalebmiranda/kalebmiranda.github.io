@@ -42,7 +42,7 @@ body {
   font-family: helvetica, Arial, sans-serif;
   color: #333;
   font-size: 87.5%;
-  /* 14px; */
+  /* 22px; */
   line-height: 1.5em;
   /* 14px x 1.5em = 21px */
 }
@@ -445,8 +445,7 @@ body {
   padding-bottom: 4em;
 }
 
-.hero {
-  background: #dedede;
+.hero {;
   text-align: center;
   padding: 4em 0;
 }

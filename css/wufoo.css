@@ -24,7 +24,7 @@ input#saveForm {
 }
 
 input#saveForm:hover {
-  background-color: #bbb;
+  background-color: rgb(198, 91, 91);
   color: #fff;
   border-color: #bbb;
   text-decoration: none;
