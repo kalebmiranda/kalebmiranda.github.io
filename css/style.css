@@ -58,6 +58,13 @@ a:hover {
   color: #999;
 }
 
+/* HEADINGS */
+h1 {
+  font-family: mendl-sans-dawn, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
 /* HELPERS */
 .text-centered {
   text-align: center;
@@ -74,6 +81,12 @@ a:hover {
   font-style: normal;
   font-weight: normal;
   clear: both;
+}
+
+.mendl {
+  font-family: mendl-sans-dawn, sans-serif;
+  font-weight: 500;
+  font-style: normal;
 }
 
 /* #BUTTONS */
@@ -274,7 +287,10 @@ body {
   text-align: center;
 }
 .site-branding h1 {
-  font-size: 1.5em;
+  font-family: mendl-sans-dusk, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 2.5em;
   margin: 0;
   padding: 1.5em 0 0.5em 0;
   text-transform: uppercase;
@@ -283,7 +299,7 @@ body {
 }
 .site-branding h1 a {
   font-weight: normal;
-  color: #777;
+  color: rgb(89, 168, 168);
   display: inline-block;
 }
 
@@ -446,7 +462,7 @@ body {
   padding-bottom: 4em;
 }
 
-.hero {;
+.hero {
   text-align: center;
   padding: 4em 0;
 }
